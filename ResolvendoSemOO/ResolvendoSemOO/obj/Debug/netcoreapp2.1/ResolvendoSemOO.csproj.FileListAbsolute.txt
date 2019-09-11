@@ -1,0 +1,11 @@
+C:\WorkSpaces\C#\C#04\ResolvendoSemOO\ResolvendoSemOO\obj\Debug\netcoreapp2.1\ResolvendoSemOO.csprojAssemblyReference.cache
+C:\WorkSpaces\C#\C#04\ResolvendoSemOO\ResolvendoSemOO\obj\Debug\netcoreapp2.1\ResolvendoSemOO.csproj.CoreCompileInputs.cache
+C:\WorkSpaces\C#\C#04\ResolvendoSemOO\ResolvendoSemOO\obj\Debug\netcoreapp2.1\ResolvendoSemOO.AssemblyInfoInputs.cache
+C:\WorkSpaces\C#\C#04\ResolvendoSemOO\ResolvendoSemOO\obj\Debug\netcoreapp2.1\ResolvendoSemOO.AssemblyInfo.cs
+C:\WorkSpaces\C#\C#04\ResolvendoSemOO\ResolvendoSemOO\bin\Debug\netcoreapp2.1\ResolvendoSemOO.deps.json
+C:\WorkSpaces\C#\C#04\ResolvendoSemOO\ResolvendoSemOO\bin\Debug\netcoreapp2.1\ResolvendoSemOO.runtimeconfig.json
+C:\WorkSpaces\C#\C#04\ResolvendoSemOO\ResolvendoSemOO\bin\Debug\netcoreapp2.1\ResolvendoSemOO.runtimeconfig.dev.json
+C:\WorkSpaces\C#\C#04\ResolvendoSemOO\ResolvendoSemOO\bin\Debug\netcoreapp2.1\ResolvendoSemOO.dll
+C:\WorkSpaces\C#\C#04\ResolvendoSemOO\ResolvendoSemOO\bin\Debug\netcoreapp2.1\ResolvendoSemOO.pdb
+C:\WorkSpaces\C#\C#04\ResolvendoSemOO\ResolvendoSemOO\obj\Debug\netcoreapp2.1\ResolvendoSemOO.dll
+C:\WorkSpaces\C#\C#04\ResolvendoSemOO\ResolvendoSemOO\obj\Debug\netcoreapp2.1\ResolvendoSemOO.pdb
