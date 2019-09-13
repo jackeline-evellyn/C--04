@@ -1,0 +1,11 @@
+C:\WorkSpaces\C#\C#04\5-MembrosEstaticos-pt1\5-MembrosEstaticos-pt1\bin\Debug\netcoreapp2.1\5-MembrosEstaticos-pt1.deps.json
+C:\WorkSpaces\C#\C#04\5-MembrosEstaticos-pt1\5-MembrosEstaticos-pt1\bin\Debug\netcoreapp2.1\5-MembrosEstaticos-pt1.runtimeconfig.json
+C:\WorkSpaces\C#\C#04\5-MembrosEstaticos-pt1\5-MembrosEstaticos-pt1\bin\Debug\netcoreapp2.1\5-MembrosEstaticos-pt1.runtimeconfig.dev.json
+C:\WorkSpaces\C#\C#04\5-MembrosEstaticos-pt1\5-MembrosEstaticos-pt1\bin\Debug\netcoreapp2.1\5-MembrosEstaticos-pt1.dll
+C:\WorkSpaces\C#\C#04\5-MembrosEstaticos-pt1\5-MembrosEstaticos-pt1\bin\Debug\netcoreapp2.1\5-MembrosEstaticos-pt1.pdb
+C:\WorkSpaces\C#\C#04\5-MembrosEstaticos-pt1\5-MembrosEstaticos-pt1\obj\Debug\netcoreapp2.1\5-MembrosEstaticos-pt1.csprojAssemblyReference.cache
+C:\WorkSpaces\C#\C#04\5-MembrosEstaticos-pt1\5-MembrosEstaticos-pt1\obj\Debug\netcoreapp2.1\5-MembrosEstaticos-pt1.csproj.CoreCompileInputs.cache
+C:\WorkSpaces\C#\C#04\5-MembrosEstaticos-pt1\5-MembrosEstaticos-pt1\obj\Debug\netcoreapp2.1\5-MembrosEstaticos-pt1.AssemblyInfoInputs.cache
+C:\WorkSpaces\C#\C#04\5-MembrosEstaticos-pt1\5-MembrosEstaticos-pt1\obj\Debug\netcoreapp2.1\5-MembrosEstaticos-pt1.AssemblyInfo.cs
+C:\WorkSpaces\C#\C#04\5-MembrosEstaticos-pt1\5-MembrosEstaticos-pt1\obj\Debug\netcoreapp2.1\5-MembrosEstaticos-pt1.dll
+C:\WorkSpaces\C#\C#04\5-MembrosEstaticos-pt1\5-MembrosEstaticos-pt1\obj\Debug\netcoreapp2.1\5-MembrosEstaticos-pt1.pdb
